@@ -87,5 +87,5 @@ void loop() {
       digitalWrite(led[2], LOW); // led[0]을 꺼줘라.
     }
   }
-  delay(1000);                                     // 1초 대기
+  delay(1000);                   // 1초 대기
 }
